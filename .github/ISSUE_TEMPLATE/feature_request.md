@@ -1,17 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Хотелось бы увидеть!
+about: Ваши предложения по улучшению
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Какая у вас проблема / боль?**
+Опишите user case, чего вам не хватает, что вы не видите или не понимаете. 
+*Прим.: Я не знаю, сколько уроков я уже сделал*
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Опишите фичу / функционал**
+Опишите, что вы хотите улучшить.
+*Прим.: Предлагаю ввести счетчик выполненных уроков*
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Как это сделать?**
+Как вы предлагаете это сделать?
+*Прим.: У каждого пользователя добавить поле в базе данных с счетчиком выполненных заданий. Увеличивать на 1 после успешной проверки куратором*
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Дополнительно**
+Любую дополнительную информация (включая скриншоты) помещайте сюда.
